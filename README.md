@@ -1,7 +1,15 @@
-# SAMPLE MASTER TEST PLAN 
-## 1 TEST PLAN IDENTIFIER
-## 2 REFERENCES 
-## 3 INTRODUCTION 
-## 4 TEST ITEMS
-## 5 SOFTWARE RISK ISSUES 
-## 6 FEATURES TO BE TESTED 
+# EquipoMaravilla_EjercicioClase11
+
+# IEEE TEST PLAN TEMPLATE
+
+## 1. TEST PLAN IDENTIFER
+
+## 2. References
+ 
+## 3. Introduction
+
+## 4. Test Items (Functions)
+
+## 5. Software Risk Issues
+
+## 6. Features to be tested
