@@ -1,5 +1,5 @@
 # EquipoMaravilla_EjercicioClase11
-Hola! 
+
 SAMPLE MASTER TEST PLAN 
 TEST PLAN IDENTIFIER
 REFERENCES 
